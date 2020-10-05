@@ -22,3 +22,5 @@ There are many commands that can be used with the bot. Most notably, the `play <
 
 * [Support Discord server](https://discord.gg/bots)
 * [Project license](LICENSE)
+
+[![Run on Repl.it](https://repl.it/badge/github/Just-Some-Bots/MusicBot)](https://repl.it/github/Just-Some-Bots/MusicBot)
